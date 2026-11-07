@@ -1,0 +1,35 @@
+# Python environments and cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local user data and databases
+runtime/
+uploads/
+private_data/
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Backups and logs
+*.bak
+*.log
+
+# Local model downloads
+.cache/
+models/
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
