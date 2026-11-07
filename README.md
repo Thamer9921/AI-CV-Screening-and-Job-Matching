@@ -145,15 +145,15 @@ Do not commit CVs, databases, credentials, or secrets. Review staged files befor
 Based on the King Khalid University graduation project, AI-Powered CV Screening and Job Matching System.
 
 Original team:
-- Abdulaziz Mansour Al-Shahrani
-- Ali Naji Ali Al-Harth
-- Thamer Eid Mahdi Al-Hashish
+- Abdulaziz Al-Shahrani
+- Ali Al-Harth
+- Thamer Al-Hashish
 - Faisal Al-Hudaithy
-- Meshari Abdulrahman Al-Qahtani
+- Meshari Al-Qahtani
 
 Supervisor: Dr. Atef Al Massmoudi.
 
-This revised local version is maintained by Thamer Eid Mahdi Al-Hashish.
+This revised local version is maintained by Thamer Al-Hashish.
 
 ---
 
@@ -297,12 +297,12 @@ AI Match تطبيق محلي لمقارنة السير الذاتية بأوصا
 مبني على مشروع تخرج بجامعة الملك خالد بعنوان: نظام تحليل السير الذاتية ومطابقتها بالوظائف باستخدام الذكاء الاصطناعي.
 
 الفريق الأصلي:
-- عبدالعزيز منصور الشهراني
-- علي ناجي علي آل حارث
-- ثامر عيد مهدي الحشيش
+- عبدالعزيز الشهراني
+- علي آل حارث
+- ثامر آل حشيش
 - فيصل الحُديثي
-- مشاري عبدالرحمن القحطاني
+- مشاري القحطاني
 
 بإشراف الدكتور عاطف المسعودي.
 
-يتولى ثامر عيد مهدي الحشيش صيانة هذه النسخة المحلية المطوّرة.
+يتولى ثامر آل حشيش صيانة هذه النسخة المحلية المطوّرة.
